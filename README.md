@@ -1,5 +1,7 @@
 # Practical Machine Learning for Everyone
 
+[Download all of the necessary data](https://raw.githubusercontent.com/jsoma/nciar23-huggingface/main/data.zip)
+
 Most of what we're doing in class today is inside of the notebooks folder, but chances are if you get lose, you're going to get lost when we're clicking around and building a classifier! So here you go, the walkthrough for building a custom text classifier:
 
 ## Building a binary text classifier
