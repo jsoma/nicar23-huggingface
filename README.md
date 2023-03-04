@@ -1,10 +1,20 @@
 # Practical Machine Learning for Everyone
 
-[Download all of the necessary data](https://raw.githubusercontent.com/jsoma/nciar23-huggingface/main/data.zip)
+[Download all of the necessary data](https://github.com/jsoma/nicar23-huggingface/raw/main/data.zip)
+
+## Links
+
+* [Hugging Face](https://huggingface.co/)
+* [Hugging Face AutoTrainer](https://ui.autotrain.huggingface.co/)
+* [Roboflow](https://www.roboflow.com/)
+* [Prodigy annotation tool](https://prodi.gy/)
+* [Leprosy of the Land](http://texty.org.ua/d/2018/amber_eng) - [methodology](https://github.com/texty/amber-methodology)
+
+## Walkthrough
 
 Most of what we're doing in class today is inside of the notebooks folder, but chances are if you get lose, you're going to get lost when we're clicking around and building a classifier! So here you go, the walkthrough for building a custom text classifier:
 
-## Building a binary text classifier
+### Building a binary text classifier
 
 A binary text classifier predicts **yes or no**.
 
